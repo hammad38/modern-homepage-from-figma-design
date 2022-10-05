@@ -29,4 +29,10 @@ nav ul {
   font-weight: 800;
   font-size: 64px;
   line-height: 96px;
+  color: #021718;
+}
+
+li{
+    list-style: none;
+    margin-right: 100px;
 }
