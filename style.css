@@ -30,9 +30,17 @@ nav ul {
   font-size: 64px;
   line-height: 96px;
   color: #021718;
+  margin-left: 100px;
 }
 
-li{
-    list-style: none;
-    margin-right: 100px;
+.nav-items li {
+  list-style: none;
+  margin-right: 100px;
+  list-style-type: none;
+  color: black;
+}
+
+a{
+    text-decoration: none;
+    color: #000;
 }
